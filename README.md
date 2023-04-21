@@ -1,3 +1,2 @@
 # Kanye-Quotes
-Kanye quotes is built using python libraries such as tkinter(for GUI) and requests(for API).    
-It will show you quotes fetched from [https://api.kanye.rest](https://api.kanye.rest) on every click on Kanye face logo.
+[Kanye Quotes](https://api.kanye.rest) is a program built using Python libraries such as Tkinter for creating the graphical user interface (GUI) and Requests for fetching data from an API. When you click on the Kanye face logo, the program will display a new quote fetched from the API.
